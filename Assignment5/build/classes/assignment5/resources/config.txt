@@ -1,0 +1,16 @@
+Name: Ribeye Steak
+Description: 20 oz juivy steak marinated in special sauce
+Price: $29.99
+Image:ribeye.jpg
+Name: Apple Pie
+Description: Hommade Apple Pie with Whipped Cream Topping
+Price: $5.99
+Image:applePie.jpg
+Name: Caeser Salad
+Description: Delicious Romaine lettuce chopped with croutons, parmesean cheese adn caeser dressing
+Price: $8.99
+Image:caeser.jpg
+Name: Spaghetti and Meatballs
+Description: Spaghetti with hommade meatballs and marinara sauce
+Price: $12.99
+Image:spaghetti.jpg
